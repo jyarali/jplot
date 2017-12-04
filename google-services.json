@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "223043277301",
+    "firebase_url": "https://jplotter-e7a59.firebaseio.com",
+    "project_id": "jplotter-e7a59",
+    "storage_bucket": "jplotter-e7a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223043277301:android:331808b3a515bad1",
+        "android_client_info": {
+          "package_name": "io.jamal.jplot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223043277301-hhptn3474c9bs06g30t11rq8fq20t4mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBti-4i3aaEhcX52Z-7XfPApyVScxnZYhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
